@@ -43,7 +43,7 @@ Writing testable Rust code
 # Project Structure
 
 src/
- ├── main.rs        // CLI entry
- ├── args.rs        // CLI arguments
- ├── counter.rs     // Core logic
- └── error.rs       // Custom errors
+├── main.rs        // CLI entry
+├── args.rs        // CLI arguments
+├── counter.rs     // Core logic
+└── error.rs       // Custom errors
