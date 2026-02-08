@@ -39,11 +39,3 @@ Ownership and borrowing in real scenarios
 Command-line argument parsing
 
 Writing testable Rust code
-
-# Project Structure
-
-src/
-├── main.rs        // CLI entry
-├── args.rs        // CLI arguments
-├── counter.rs     // Core logic
-└── error.rs       // Custom errors
