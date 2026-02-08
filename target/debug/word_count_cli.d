@@ -1,0 +1,1 @@
+/Users/mrfarawe/RustWorkspace/word_count_cli/target/debug/word_count_cli: /Users/mrfarawe/RustWorkspace/word_count_cli/src/args.rs /Users/mrfarawe/RustWorkspace/word_count_cli/src/counter.rs /Users/mrfarawe/RustWorkspace/word_count_cli/src/error.rs /Users/mrfarawe/RustWorkspace/word_count_cli/src/main.rs
