@@ -24,7 +24,7 @@ Fully testable logic (unit-test friendly)
 
 Clear separation of concerns
 
-# Learning Goals
+# Goals
 
 This project is designed as a practical learning exercise and demonstrates:
 
